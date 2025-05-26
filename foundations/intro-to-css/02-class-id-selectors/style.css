@@ -1,0 +1,19 @@
+.paragraph {
+    background: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#numero2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.paragraph.cooler {
+    font-size: 24px;
+}
+
+#numero4 {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
