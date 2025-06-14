@@ -6,7 +6,7 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 
 ## Desired outcome
 
-![desired outcome](./desired-outcome.png)
+![desired outcome](desired-outcome.png)
 
 ### Self Check
 
