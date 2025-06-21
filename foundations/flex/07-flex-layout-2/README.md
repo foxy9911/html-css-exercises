@@ -12,13 +12,13 @@ As with the previous exercise, we've left a little more for you to do.
 
 ## Desired outcome
 
-![desired outcome](./desired-outcome.png)
+![desired outcome](desired-outcome.png)
 
 The number of cards lined up in that section will change based on the width of your screen, so don't stress about getting _exactly_ a 2x3 or 3x2 grid.
 
 On a smaller screen it will look like this:
 
-![smaller](./desired-outcome-smaller.png)
+![smaller](desired-outcome-smaller.png)
 
 Note: The emojis may instead show up as one or several text symbols (e.g. &#9734;&#9794;) if you don't have an emoji-based font family installed on your operating system. This does not affect the exercise and can be ignored.
 
